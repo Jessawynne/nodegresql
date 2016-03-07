@@ -12,7 +12,7 @@ Node.js, PostgreSQL, Sequelize, Nodemon
 
 ```
 $ git clone https://github.com/Jessawynne/nodegresql.git
-$ cd ./node-chat
+$ cd ./nodegresql
 ```
 
 #####To install dependencies:
